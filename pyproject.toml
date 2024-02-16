@@ -6,10 +6,9 @@ authors = ["Ben Puryear <54869170+Ben10164@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "3.8.10"
 pytest = "^8.0.0"
 black = "^24.1.1"
-pylint = "^3.0.3"
 
 
 [build-system]

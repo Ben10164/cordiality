@@ -15,7 +15,8 @@ large_random_inputs = []
 massive_random_inputs = []
 
 # Generate 1000 different arrays, each with 100 random integers
-# large_random_inputs = [[random.randint(-100, 100) for _ in range(random.randint(0, 10000))] for _ in range(100)]
+# large_random_inputs = [[random.randint(-100, 100) for _ in range(random.randint(0, 10000))] for _ in range(5)]
+large_random_inputs = [[random.randint(-10, 10) for _ in range(random.randint(0,2))] for _ in range(5)]
 # massive_random_inputs = [[random.randint(-100, 100) for _ in range(random.randint(0, 200000))] for _ in range(2)]
 
 # Combine fixed inputs with random inputs
