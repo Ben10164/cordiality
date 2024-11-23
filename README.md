@@ -2,6 +2,10 @@
 
 So this is intended to be created locally while solving the questions on Codility.
 
+You can access the problems at <https://app.codility.com/programmers/>.
+
+I'd recommend utilizing the tests in `tests/` that use pytest.
+
 ## Setup for Virtual Environemnt
 
 * Have Python installed (optional: any Python manager such as `pyenv` or poetry, but this tutorial will just be for normal venv)
